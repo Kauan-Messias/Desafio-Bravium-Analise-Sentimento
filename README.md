@@ -50,4 +50,4 @@ Obrigado pela oportunidade e pelo desafio. Estou à disposição para aprofundar
 
 * Kauan Messias
 * [LinkedIn](https://www.linkedin.com/in/kauan-messias/)
-* [GitHub](https://www.linkedin.com/in/kauan-messias/)
+* [GitHub](https://github.com/Kauan-Messias)
