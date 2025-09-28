@@ -1,4 +1,3 @@
-**[Google Colab](https://colab.research.google.com/drive/19xa4bDiOyBAmDuHP-eQfQ9Tp91rfNbax?usp=sharing)**
 # Desafio de Estágio em IA - Análise de Sentimentos Olist
 
 Este repositório contém a solução para o Desafio de Estágio em Inteligência Artificial da Bravium. O objetivo foi desenvolver um modelo de **classificação binária** capaz de identificar o sentimento das avaliações dos clientes da Olist (Positiva ou Negativa).
